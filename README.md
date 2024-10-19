@@ -27,7 +27,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://monitor.soporte.eu.org)
+[**Visit our status website →**](https://radar.root24.eu.org)
 
 ## 📄 License
 
