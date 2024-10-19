@@ -44,7 +44,8 @@ status-website:
  # theme: dark
   theme: light  
   # TeroRERO introMessage: © Derechos Reservados  2023
-  introMessage: © LA RAZÓN - EL EXTRA - IGMC ®2024
+  # TeroRERO introMessage: © LA RAZÓN - EL EXTRA - IGMC ®2024
+  introMessage: © Derechos Reservados  2024
   navbar:
     - title: Radar
       href: /
