@@ -21,7 +21,8 @@ sites:
     url: https://ventasinmediatas.transturin.com
 
 assignees:
-  - terorero
+#old   - terorero
+  - cloud-bitacora
 
 # Add downtime notifications
 # https://upptime.js.org/docs/notifications
@@ -32,7 +33,7 @@ notifications:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: monitor.soporte.eu.org
+  cname: radar.root24.eu.org
   # baseUrl: /your-repo-name
   # TeroRERO logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://www.la-razon.com/wp-content/themes/lr-genosha/assets/img/la-razon-logo.png
